@@ -28,18 +28,24 @@ Here are some ideas to get you started:
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hasannader2040)
 
 ## Tech Stack:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM-00BFFF?style=for-the-badge&logo=machine-learning&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-000000?style=for-the-badge&logo=YOLO&logoColor=white)
+- ![DevOps](https://img.shields.io/badge/DevOps-007ACC?style=for-the-badge&logo=devops&logoColor=white)
+- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+- ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+- ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+- ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+- ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+- ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+- ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+- ![Semgrep](https://img.shields.io/badge/Semgrep-00B3E6?style=for-the-badge&logo=semgrep&logoColor=white)
+- ![Terrascan](https://img.shields.io/badge/Terrascan-453B3D?style=for-the-badge&logo=terrascan&logoColor=white)
+
 
 
 👋 Hi, I'm Hasan Karkanwi !
@@ -58,7 +64,11 @@ Monitoring & Security:**SonarQube, Semgrep, Terrascan**
 Currently, I’m working on a **RESTful API project** to track environment sensor data from OpenSenseMap, built with Flask and Python. The API facilitates seamless interaction with sensor data, which is crucial for environmental monitoring. It's deployed using Docker and Kubernetes, with an automated CI/CD pipeline powered by GitHub Actions, and hosted on AWS. This project exemplifies my expertise in building scalable and automated cloud-based applications.
 
 Check out the project here:**RESTful OpenSenseMap API**
+
 2- MongoDB Kubernetes Deployment: Deployed and managed MongoDB clusters on Kubernetes using custom YAML configurations.
+
 3- CI/CD Pipeline Integration: Integrated SonarQube, Semgrep, and Terrascan for automated code quality and security checks.
+
 4- Nginx with Docker: Automated the deployment of an HTML website using Nginx with Docker.
+
 5- AWS Infrastructure: Designed and implemented VPC, subnets, and EC2 instances with proper security groups for scalable applications.
