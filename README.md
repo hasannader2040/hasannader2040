@@ -63,7 +63,7 @@ Monitoring & Security:**SonarQube, Semgrep, Terrascan**
 # 1- Highlighted Project: RESTful OpenSenseMap API
 Currently, I’m working on a **RESTful API project** to track environment sensor data from OpenSenseMap, built with Flask and Python. The API facilitates seamless interaction with sensor data, which is crucial for environmental monitoring. It's deployed using Docker and Kubernetes, with an automated CI/CD pipeline powered by GitHub Actions, and hosted on AWS. This project exemplifies my expertise in building scalable and automated cloud-based applications.
 
-Check out the project here:**RESTful OpenSenseMap API**
+Check out the project here:[**RESTful OpenSenseMap API**](https://github.com/hasannader2040/restful-opensensemap-Api)
 
 2- MongoDB Kubernetes Deployment: Deployed and managed MongoDB clusters on Kubernetes using custom YAML configurations.
 
