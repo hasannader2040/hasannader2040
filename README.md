@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 
 
 
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -39,3 +40,20 @@ Here are some ideas to get you started:
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![LLM](https://img.shields.io/badge/LLM-00BFFF?style=for-the-badge&logo=machine-learning&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-000000?style=for-the-badge&logo=YOLO&logoColor=white)
+
+
+👋 Hi, I'm Hasan Karkanvı!
+I'm a passionate DevOps Engineer and Software Developer with experience in cloud infrastructure, automation, and application deployment. I specialize in using tools like Docker, Kubernetes, Terraform, and AWS to create scalable, secure, and efficient solutions. With a background in cloud architecture, CI/CD pipelines, and infrastructure as code, I enjoy solving complex technical challenges and streamlining development workflows.
+
+💡 Technologies & Tools:
+Cloud: AWS, GCP
+Containers & Orchestration: Docker, Kubernetes
+Automation & CI/CD: GitHub Actions, Jenkins
+Programming Languages: Python, Java, PHP (Laravel), Bash
+Databases: MongoDB, MySQL
+Monitoring & Security: SonarQube, Semgrep, Terrascan
+🔧 Recent Projects:
+MongoDB Kubernetes Deployment: Deployed and managed MongoDB clusters on Kubernetes using custom YAML configurations.
+CI/CD Pipeline Integration: Integrated SonarQube, Semgrep, and Terrascan for automated code quality and security checks.
+Nginx with Docker: Automated the deployment of an HTML website using Nginx with Docker.
+AWS Infrastructure: Designed and implemented VPC, subnets, and EC2 instances with proper security groups for scalable applications.
